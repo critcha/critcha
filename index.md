@@ -1,12 +1,23 @@
 ---
-title: Welcome
-layout: page
-author: critch
-permalink: /
-paginate: true
+layout: blog-home
+title: Test title
 image: /assets/images/cropped-andrew-critch-sand-cliff-jumping-header.jpg
-source-id: 1_3vFnZ7BmFvtHtJokDywcDr9w00zCFQ7WdTCBFlmyEI
-published: true
+permalink: /
 ---
 
-This is my new blog; my old blog is <a href="http://acritch.com/blog/">here</a>.
+{% for post in site.posts %}
+  <h3 class="post-title"><a href="{{ post.url }}">{{ post.title }}</a></h3>
+  <div class="post-details"><span class="post-date">{{ post.date | date_to_long_string }}</span>{% if post.categories.size > 0 %} | <span class="post-categories">{{ post.categories }}</span>{% endif %}</div>
+
+  {{ post.excerpt }}
+  {% capture content_words %} 
+    {{ post.content | number_of_words }} 
+  {% endcapture %} 
+  {% capture excerpt_words %} 
+    {{ post.excerpt | number_of_words }} 
+  {% endcapture %} 
+  {% if excerpt_words != content_words %}
+[Read more]({{ post.url }})
+  {% endif %}
+  <hr class="blog-separator" />
+{% endfor %}
