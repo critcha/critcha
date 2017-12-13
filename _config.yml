@@ -71,6 +71,12 @@ defaults:
     values:
       layout: post
       read_time: true
+      image: /assets/images/cropped-andrew-critch-sand-cliff-jumping-header.jpg
+########################
+# Critch's additions:
+########################
 
 # URL defaults
 permalink: /:categories/:title/
+
+# Default image
