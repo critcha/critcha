@@ -1,13 +1,13 @@
 ---
 layout: page
-title: All Posts
+title: All posts
 image: /assets/images/cropped-andrew-critch-sand-cliff-jumping-header.jpg
 permalink: /
 ---
 
 {% for post in site.posts %}
   <h3 class="post-title"><a href="{{ post.url }}">{{ post.title }}</a></h3>
-  <div class="post-details"><span class="post-date">{{ post.date | date_to_long_string }}</span>{% if post.categories.size > 0 %} | <span class="post-categories">{{ post.categories }}</span>{% endif %}</div>
+  <div class="post-details"><span class="post-date">{{ post.date | date_to_long_string }}</span>{% if post.categories.size > 0 %} | <span class="post-categories">{{ post.categories }}</span>{% endif %}<br></div>
 
   {{ post.excerpt }}
   {% capture content_words %} 
