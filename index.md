@@ -10,7 +10,7 @@ h3.post-title {
   margin-bottom: 5px
 }
 .post-details {
-  margin-bottom: 10px
+  margin-bottom: 1em
 }
 </style>
 
