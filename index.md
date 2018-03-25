@@ -1,6 +1,6 @@
 ---
 layout: page
-title: All posts
+title: All Critch's Posts (2018+)
 image: /assets/images/cropped-andrew-critch-sand-cliff-jumping-header.jpg
 permalink: /
 ---
