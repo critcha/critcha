@@ -16,6 +16,8 @@ h3.post-title {
 
 I expect to be making any new blog posts here at [blog.acritch.com](http://blog.acritch.com/) for the foreseeable future.  For posts made between 2014 and 2018, visit [acritch.com/blog](http://acritch.com/blog).  For even older posts, made between 2010 and 2012 under the username “Academian”, visit [lesswrong.com](https://www.lesswrong.com/users/academian?view=frontpage).
 
+<hr class="blog-separator" />
+
 {% for post in site.posts %}
   <h3 class="post-title"><a href="{{ post.url }}">{{ post.title }}</a></h3>
   <div class="post-details"><span class="post-date">{{ post.date | date_to_long_string }}</span>{% if post.categories.size > 0 %} | <span class="post-categories">{{ post.categories }}</span>{% endif %}</div>
