@@ -14,7 +14,7 @@ h3.post-title {
 }
 </style>
 
-I expect to be making any new blog posts here at [http://blog.acritch.com/](blog.acritch.com) for the foreseeable future.  For posts made between 2014 and 2018, visit [http://acritch.com/blog](acritch.com/blog).  For even older posts, made between 2010 and 2012 under the username “Academian”, visit [https://www.lesswrong.com/users/academian?view=frontpage](lesswrong.com).
+I expect to be making any new blog posts here at [blog.acritch.com](http://blog.acritch.com/) for the foreseeable future.  For posts made between 2014 and 2018, visit [acritch.com/blog](http://acritch.com/blog).  For even older posts, made between 2010 and 2012 under the username “Academian”, visit [lesswrong.com](https://www.lesswrong.com/users/academian?view=frontpage).
 
 {% for post in site.posts %}
   <h3 class="post-title"><a href="{{ post.url }}">{{ post.title }}</a></h3>
