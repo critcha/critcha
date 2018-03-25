@@ -1,7 +1,7 @@
 ---
 title: Red Penning, Version A
 layout: post
-author: critcha
+author: critch
 permalink: /red-penning-version-a/
 source-id: 1IRNaLYLcY9ar5moynbpCmbXYOLyApim8a7xwdLxhDtU
 published: true
