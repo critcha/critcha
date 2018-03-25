@@ -5,10 +5,18 @@ image: /assets/images/cropped-andrew-critch-sand-cliff-jumping-header.jpg
 permalink: /
 ---
 
+<style>
+h3.post-title {
+  margin-bottom: 5px
+}
+.post-details {
+  margin-bottom: 10px
+}
+</style>
+
 {% for post in site.posts %}
   <h3 class="post-title"><a href="{{ post.url }}">{{ post.title }}</a></h3>
   <div class="post-details"><span class="post-date">{{ post.date | date_to_long_string }}</span>{% if post.categories.size > 0 %} | <span class="post-categories">{{ post.categories }}</span>{% endif %}</div>
-  <br><br>
   {{ post.excerpt }}
   {% capture content_words %} 
     {{ post.content | number_of_words }} 
