@@ -105,15 +105,15 @@ Pick a problem.  If you don't know what the problem is, wait until a time when y
 </table>
 
 
-{:start="1"}
+{:start="3"}
 
-1. **_Diagram._**  *In a new writing space that can be visible at the same time as the Describing & Resonating space  (e.g. paper, or an iPad with an Apple Pencil), draw a diagram depicting the causal structure of the problem.  Feel free to adjust the argument in the Describing & Resonating space if you experience shifts in your thinking as a result of the diagram**.*
+3. **_Diagram._**  *In a new writing space that can be visible at the same time as the Describing & Resonating space  (e.g. paper, or an iPad with an Apple Pencil), draw a diagram depicting the causal structure of the problem.  Feel free to adjust the argument in the Describing & Resonating space if you experience shifts in your thinking as a result of the diagram.*
 
 ![image alt text]({{ site.url }}/public/25nVhnNHmYlBoXjQWFSB0g_img_0.png)
 
-{:start="3"}
+{:start="4"}
 
-3. **_Pessimize._**  *Open a new writing space that can be visible at same time as the diagram.  Using the diagram as a guide, try to write a strong argument that your problem is impossible to solve.*If the writing out this argument feels bad or wrong in a way that makes it painful to agree with, that's great!  It means you’re sort of skipping ahead to the next step, which is fine and good.
+4. **_Pessimize._**  *Open a new writing space that can be visible at same time as the diagram.  Using the diagram as a guide, try to write a strong argument that your problem is impossible to solve.*If the writing out this argument feels bad or wrong in a way that makes it painful to agree with, that's great!  It means you’re sort of skipping ahead to the next step, which is fine and good.
 
 <table style='' class='table-from-google-docs'>
   <tr>
@@ -122,20 +122,20 @@ Pick a problem.  If you don't know what the problem is, wait until a time when y
 </table>
 
 
-{:start="1"}
+{:start="5"}
 
-1. **_Critique._**  *Reflect on what seems most weak or wrong about the pessimism argument, and use a different writing tool (e.g. a red pen, google doc comment, or different font) to add comments or highlight the objections you have.*The result could look something like this:
+5. **_Critique._**  *Reflect on what seems most weak or wrong about the pessimism argument, and use a different writing tool (e.g. a red pen, google doc comment, or different font) to add comments or highlight the objections you have.*The result could look something like this:
 
 <table style='' class='table-from-google-docs'>
   <tr>
-    <td style='background-color: #cfe2f3;'><p>Writing Space #3: Pessimizing & Critiquing</p><ol><li>I am currently incapable of producing valuable work.  <span style='color:#cc4125'>← Really?  What if I clear my schedule for a day or something to remove distraction?</span></li><li>It is impossible to change how often I meet with my boss.  <span style='color:#cc4125'>← Really? I can't explain that I feel like I’m getting to little done between meetings, and ask for less frequent meetings?</span></li><li>My boss is going to keep being disappointed with me at the current rate, because of (a) and (b). <span style='color:#cc4125'>← Really? I can’t ask my boss if it makes sense to lower her expectations?</span></li><li>I am incapable of seeing by boss’s disappointment without getting anxious.  <span style='color:#cc4125'>← Really? I can’t try meditation or something to reduce my anxiety about this?</span></li><li>I’m going to keep being anxious as much as I currently am, because of (c) and (d).    <span style='color:#38761d'>← No comment; seems to follow fine from above.</span></li><li>I am incapable of doing good work when anxious.  <span style='color:#cc4125'>← Really? Even if I take lots of b</span><span style='color:#cc4125'>r</span><span style='color:#cc4125'>eaks?</span></li><li>I am going to remain incapable of producing valuable work, because of (e) and (f).  <span style='color:#38761d'>← No comment; seems to follow fine from above.</span></li><li>Items (a) through (g) form a cycle that cannot be broken or intervened  on by myself or others.  <span style='color:#cc4125'>← Really?  I haven’t shown this diagram or argument to my friends, co-workers, or boss yet.  How sure can I be that they won’t be able to help me produce solutions?</span></li><li>Therefore, this problem cannot be solved.  <span style='color:#38761d'>← No comment; Seems to follow fine from above.</span></li></ol></td>
+    <td style='background-color: #cfe2f3;'><p>Writing Space #3: Pessimizing & Critiquing</p><ol><li>I am currently incapable of producing valuable work.  <span style='color:#cc4125'>← Really?  What if I clear my schedule for a day or something to remove distraction?</span></li><li>It is impossible to change how often I meet with my boss.  <span style='color:#cc4125'>← Really? I can't explain that I feel like I’m getting to little done between meetings, and ask for less frequent meetings?</span></li><li>My boss is going to keep being disappointed with me at the current rate, because of (a) and (b). <span style='color:#cc4125'>← Really? I can’t ask my boss if it makes sense to lower her expectations?</span></li><li>I am incapable of seeing by boss’s disappointment without getting anxious.  <span style='color:#cc4125'>← Really? I can’t try meditation or something to reduce my anxiety about this?</span></li><li>I’m going to keep being anxious as much as I currently am, because of (c) and (d).    <span style='color:#38761d'>← No comment; seems to follow fine from above.</span></li><li>I am incapable of doing good work when anxious.  <span style='color:#cc4125'>← Really? Even if I take lots of breaks?</span></li><li>I am going to remain incapable of producing valuable work, because of (e) and (f).  <span style='color:#38761d'>← No comment; seems to follow fine from above.</span></li><li>Items (a) through (g) form a cycle that cannot be broken or intervened  on by myself or others.  <span style='color:#cc4125'>← Really?  I haven’t shown this diagram or argument to my friends, co-workers, or boss yet.  How sure can I be that they won’t be able to help me produce solutions?</span></li><li>Therefore, this problem cannot be solved.  <span style='color:#38761d'>← No comment; Seems to follow fine from above.</span></li></ol></td>
   </tr>
 </table>
 
 
-{:start="1"}
+{:start="6"}
 
-1. **Brainstorm solutions.**  Read over the critique you just produced and reflect on which, if any, of your comments lend themselves to solutions you could try.  Make sure each criticism in Space #3 is reflected in your brainstorm in Space #4.  Spend a little time looking at each solution idea to see if you can make a more effective version of it.
+6. **Brainstorm solutions.**  Read over the critique you just produced and reflect on which, if any, of your comments lend themselves to solutions you could try.  Make sure each criticism in Space #3 is reflected in your brainstorm in Space #4.  Spend a little time looking at each solution idea to see if you can make a more effective version of it.
 
 <table style='' class='table-from-google-docs'>
   <tr>
@@ -144,11 +144,11 @@ Pick a problem.  If you don't know what the problem is, wait until a time when y
 </table>
 
 
-{:start="2"}
+{:start="7"}
 
-2. **Try your favorite solution(s).**  Ideally, try your most promising solution(s) immediately.  Otherwise, decide on a concrete place and time to start trying each solution you feel excited about, e.g. using [trigger-action plan](http://lesswrong.com/lw/o7c/making_intentions_concrete_triggeraction_planning/) that includes a date or time to revisit whether the plan worked.  
+7. **Try your favorite solution(s).**  Ideally, try your most promising solution(s) immediately.  Otherwise, decide on a concrete place and time to start trying each solution you feel excited about, e.g. using [trigger-action plan](http://lesswrong.com/lw/o7c/making_intentions_concrete_triggeraction_planning/) that includes a date or time to revisit whether the plan worked.  
 
-{:start="3"}
+{:start="8"}
 
-3. **Revisit and reflect.**  Return to your notes at your planned time, or if your attempt feel like the attempt failed, whichever comes first.  Amend your notes to reflect why it failed or succeeded, and maybe repeat this procedure in light of your new experience.
+8. **Revisit and reflect.**  Return to your notes at your planned time, or if your attempt feel like the attempt failed, whichever comes first.  Amend your notes to reflect why it failed or succeeded, and maybe repeat this procedure in light of your new experience.
 
