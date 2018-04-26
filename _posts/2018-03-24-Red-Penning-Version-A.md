@@ -6,7 +6,7 @@ permalink: /red-penning-version-a/
 source-id: 1IRNaLYLcY9ar5moynbpCmbXYOLyApim8a7xwdLxhDtU
 published: true
 ---
-[[google doc version for commenting](https://docs.google.com/document/d/1IRNaLYLcY9ar5moynbpCmbXYOLyApim8a7xwdLxhDtU/)]
+([google doc version for commenting](https://docs.google.com/document/d/1IRNaLYLcY9ar5moynbpCmbXYOLyApim8a7xwdLxhDtU/))
 
 <a name="introduction" class="intrapage-link"></a>
 ## Introduction
